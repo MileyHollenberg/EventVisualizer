@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 3283af2e2e732ba46be4ae6c7893a4a5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 305d72b64a2242c0b6ff1d70a6bc89f4, type: 3}
+  name: io.megamiley.EventVisualizer
+  version: 0.1.0
+  displayName: OpenUPMBase
+  description: Visualize Events within the editor, showing both incoming and outgoing
+    events
+  unity: 2018.0
+  unityRelease: 
+  dependencies:
+    keyValuePairs: []
+  keywords:
+  - event
+  - visualizer
+  - editor
+  - tool
+  - visualization
+  author:
+    name: Miley Hollenberg
+    email: mileyhollenberg@gmail.com
+    url: 
+  autoExportJson: 1
+  registryUrl: https://registry.my-company.com

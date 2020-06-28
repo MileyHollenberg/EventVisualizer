@@ -1,0 +1,23 @@
+
+{
+    "name" : "io.megamiley.event-visualizer",
+    "version" : "0.1.0",
+    "displayName" : "OpenUPMBase",
+    "description" : "Visualize Events within the editor, showing both incoming and outgoing events",
+    "unity"       : "2018.0",
+    "unityRelease" : "",
+    "dependencies" : {
+    },
+    "keywords"     : [
+        "event",
+        "visualizer",
+        "editor",
+        "tool",
+        "visualization"
+    ],
+    "author"       : {
+        "name" : "Miley Hollenberg",
+        "email" : "mileyhollenberg@gmail.com",
+        "url"   : "https://github.com/MileyHollenberg/EventVisualizer"
+    }
+}
